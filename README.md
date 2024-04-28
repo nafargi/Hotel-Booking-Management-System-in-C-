@@ -21,7 +21,7 @@ The Simple Hotel Booking Management System is a desktop application coded in C++
 
 1. Open the project in your preferred C++ IDE.
 2. Build and run the project.
-3. Follow the on-screen instructions to navigate the application.
+
 
 ## Disclaimer
 This application is provided for educational purposes only.
