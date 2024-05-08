@@ -10,12 +10,7 @@ The Simple Hotel Booking Management System is a desktop application coded in C++
 - Type: Desktop Application
 - Database used: Text file generated
 
-## Features
-- **Book a Room:** Reserve a room for a guest
-- **Customer Record:** Maintain a record of customers
-- **Rooms Allotted:** View rooms allotted to guests
-- **Edit Record:** Update or delete existing guest records
-- **Exit:** Close the application
+
 
 ## Usage
 
