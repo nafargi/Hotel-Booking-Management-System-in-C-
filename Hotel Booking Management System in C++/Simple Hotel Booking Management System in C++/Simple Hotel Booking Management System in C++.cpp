@@ -100,7 +100,6 @@ void hotel::main_menu() {
 }
 
 void hotel::add() {
-
 	head();
 	int r,flag;
 	ofstream fout("Record.dat",ios::app);
