@@ -7,7 +7,7 @@
 #include<process.h>
 #include<dos.h>
 using namespace std;
-
+tttttttttt
 void intro() {
 	cout<<"\n\t            ";
 	cout<<"     Hotel Booking Management System";
