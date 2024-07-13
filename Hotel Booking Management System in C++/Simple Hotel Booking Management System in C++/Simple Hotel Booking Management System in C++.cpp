@@ -7,8 +7,6 @@
 #include<process.h>
 #include<dos.h>
 
-
-n
 using namespace std;
 void intro() {
 	cout<<"\n\t            ";
