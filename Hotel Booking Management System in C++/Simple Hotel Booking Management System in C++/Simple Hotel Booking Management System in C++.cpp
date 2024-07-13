@@ -44,8 +44,6 @@ void time() {
 	}
 }
 
-//MARK:- Hotel Cl
-
 class hotel {
 	private:
 			int room_no;
