@@ -7,7 +7,7 @@
 #include<process.h>
 #include<dos.h>
 
-nafargi
+
 using namespace std;
 void intro() {
 	cout<<"\n\t            ";
