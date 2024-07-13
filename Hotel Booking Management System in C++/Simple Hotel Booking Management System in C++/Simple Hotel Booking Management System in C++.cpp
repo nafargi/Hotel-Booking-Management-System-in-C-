@@ -8,7 +8,7 @@
 #include<dos.h>
 
 
-nmnmanamnm
+nmnmanamn
 
 using namespace std;
 void intro() {
