@@ -7,7 +7,7 @@
 #include<process.h>
 #include<dos.h>
 
-nafargida
+nafargid
 using namespace std;
 void intro() {
 	cout<<"\n\t            ";
