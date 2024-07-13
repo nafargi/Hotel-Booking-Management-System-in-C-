@@ -44,7 +44,7 @@ void time() {
 	}
 }
 
-//MARK:- Hotel Class
+//MARK:- Hotel Clas
 
 class hotel {
 	private:
