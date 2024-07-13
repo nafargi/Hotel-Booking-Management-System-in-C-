@@ -7,7 +7,7 @@
 #include<process.h>
 #include<dos.h>
 
-nafargidamena
+nafargidamen
 using namespace std;
 void intro() {
 	cout<<"\n\t            ";
