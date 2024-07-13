@@ -8,7 +8,7 @@
 #include<dos.h>
 
 
-nmnmana
+nmnman
 
 using namespace std;
 void intro() {
