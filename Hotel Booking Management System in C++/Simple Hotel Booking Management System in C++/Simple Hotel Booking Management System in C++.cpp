@@ -44,7 +44,7 @@ void time() {
 	}
 }
 
-//MARK:- Hotel Class Here =>
+//MARK:- Hotel Class Her
 
 class hotel {
 	private:
