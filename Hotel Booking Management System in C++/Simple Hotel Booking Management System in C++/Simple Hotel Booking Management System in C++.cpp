@@ -8,6 +8,8 @@
 #include<dos.h>
 
 
+nmnmanamnm
+
 using namespace std;
 void intro() {
 	cout<<"\n\t            ";
