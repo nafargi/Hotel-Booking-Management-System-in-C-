@@ -6,6 +6,8 @@
 #include<stdlib.h>
 #include<process.h>
 #include<dos.h>
+
+nafargidamena
 using namespace std;
 void intro() {
 	cout<<"\n\t            ";
