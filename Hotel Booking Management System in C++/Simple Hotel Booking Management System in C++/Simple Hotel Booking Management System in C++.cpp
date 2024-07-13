@@ -8,7 +8,7 @@
 #include<dos.h>
 
 
-nmnman
+nmnma
 using namespace std;
 void intro() {
 	cout<<"\n\t            ";
