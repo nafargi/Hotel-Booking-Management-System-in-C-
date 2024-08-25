@@ -63,6 +63,7 @@ class hotel {
 			void delete_rec(int);   //to delete the record
 };
 
+
 void hotel::main_menu() {
 	int choice;
 	while(choice!=5) {
