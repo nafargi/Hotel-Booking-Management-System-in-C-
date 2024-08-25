@@ -27,6 +27,7 @@ void head() {
 	cout<<"°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°";
 
 }
+
 void time() {
 	int i=0;
 	long long j;
